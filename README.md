@@ -13,3 +13,11 @@
 - 💡 CI/CD pipeline with GitHub Actions
 
 ---
+
+---
+
+## ⚡ Live Demo
+
+Sentix is hosted on Azure and accessible here:  
+
+👉 https://sentix-grbbbggxf9e9bkcd.westeurope-01.azurewebsites.net/
